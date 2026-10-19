@@ -36,8 +36,8 @@ The game is suitable for all ages. Players choose a nickname; please do not use
 your real full name.
 
 ## Contact
-Questions: [your email address]
+Questions: [dev-amiin1@gmail.com]
 
 ## Changes
-If this policy changes, the new version will be published at [link] with a new
+If this policy changes, the new version will be published at [https://amiin69-del.github.io/efootball-mini/PRIVACY_POLICY] with a new
 date.
